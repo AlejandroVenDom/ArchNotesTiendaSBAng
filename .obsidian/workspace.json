@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TiendaSB_Develop/Frontend-Angular/Guards/app.routes.ts (Auth.Guard & public.guard).md",
+                "file": "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/TokenService (NGX Cookie Service).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app.routes.ts (Auth.Guard & public.guard)"
+              "title": "TokenService (NGX Cookie Service)"
             }
           }
         ]
@@ -170,14 +170,15 @@
   },
   "active": "474c85e204fe2252",
   "lastOpenFiles": [
+    "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/NGX Cookie Service (configuration).md",
+    "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/TokenService (NGX Cookie Service).md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/app.routes.ts (Auth.Guard & public.guard).md",
     "PostMan/Postman_Enviroments Configuration_V1.md",
     "images_pasted/Explicación-enviroments.png",
     "PostMan/Postman_Collections Configuration_CRUD-V2.md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
-    "TiendaSB_Develop/Frontend-Angular/Tokens (cookie service)/NGX Cookie Service (Token).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Auth.guard & Public.guard.md",
     "TiendaSB_Develop/Backend-SpringBoot/UserController.md",
-    "TiendaSB_Develop/Frontend-Angular/Guards/app.routes.ts (Auth.Guard & public.guard).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Public.Guard (Security-routes-Auth).md",
     "pasar de testing a porduccion.md",
     "Curso Git/Git-Comandos de Git-V3.md",
@@ -200,7 +201,7 @@
     "images_pasted/Pasted image 20250226135000.png",
     "images_pasted/Pasted image 20250226134716.png",
     "images_pasted/Pasted image 20250226134521.png",
-    "TiendaSB_Develop/Frontend-Angular/Tokens (cookie service)",
+    "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies",
     "images_pasted",
     "Sin título.md",
     "PostMan",
