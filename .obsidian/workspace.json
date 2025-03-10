@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/NGX Cookie Service (configuration).md",
+                "file": "TiendaSB_Develop/Frontend-Angular/Guards/code/app.routes.ts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NGX Cookie Service (configuration)"
+              "title": "app.routes.ts"
+            }
+          },
+          {
+            "id": "f111385dfe61ae44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/code/Token.service.ts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Token.service.ts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,15 +183,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "474c85e204fe2252",
+  "active": "f111385dfe61ae44",
   "lastOpenFiles": [
+    "TiendaSB_Develop/Frontend-Angular/Guards/code/app.routes.ts.md",
+    "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/code/Token.service.ts.md",
     "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/TokenService (NGX Cookie Service).md",
+    "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/code",
+    "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/Sin título.md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/code/Auth.guard.ts.md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/code/Public.guard.ts.md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/code",
     "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/NGX Cookie Service (configuration).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/app.routes.ts (Auth.Guard & public.guard).md",
     "PostMan/Postman_Enviroments Configuration_V1.md",
     "images_pasted/Explicación-enviroments.png",
     "PostMan/Postman_Collections Configuration_CRUD-V2.md",
-    "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Auth.guard & Public.guard.md",
     "TiendaSB_Develop/Backend-SpringBoot/UserController.md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Public.Guard (Security-routes-Auth).md",
@@ -204,8 +226,6 @@
     "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies",
     "images_pasted",
     "Sin título.md",
-    "PostMan",
-    "TiendaSB_Develop",
     "Web Develope Notes/Tipoh.md",
     "Web Develope Notes/TypeScript/Tipado en TypeScript.md"
   ]
