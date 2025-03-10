@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "d26d8f18c0deb474",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7f8aaf7798c9f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa5f9bed28953000",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36998242825fda89",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aee1e7923a49916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3103356be72f73bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c135aabab0ba1031",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ca7415b65b4ff097",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469.5
+  },
+  "right": {
+    "id": "43e75f3f77e40772",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be0ce722fe9904d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f35735193547c2ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Develope Notes/TypeScript/Tipado en TypeScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Tipado en TypeScript"
+            }
+          },
+          {
+            "id": "fc68d757fe228f75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Develope Notes/TypeScript/Tipado en TypeScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Tipado en TypeScript"
+            }
+          },
+          {
+            "id": "5999413e0cf2864c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1cebc248c5ad24a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Develope Notes/TypeScript/Tipado en TypeScript.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Tipado en TypeScript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "fa5f9bed28953000",
+  "lastOpenFiles": [
+    "TiendaSB_Develop/Frontend-Angular/Tokens (cookie service)/NGX Cookie Service (Token).md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Auth.guard & Public.guard.md",
+    "TiendaSB_Develop/Backend-SpringBoot/UserController.md",
+    "PostMan/Postman_Enviroments Configuration_V1.md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Routes.ts (Auth.Guard & public.guard).md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Public.Guard (Security-routes-Auth).md",
+    "pasar de testing a porduccion.md",
+    "Curso Git/Git-Comandos de Git-V3.md",
+    "Curso Git/Git-Instalación y Configuración de Git. Comandos Básicos GitBush-V2.md",
+    "Curso Git/Git-Conceptos Básicos y características-V1.md",
+    "TiendaSB_Develop/Frontend-Angular/Enviroments",
+    "TiendaSB_Develop/Frontend-Angular",
+    "TiendaSB_Develop/Backend-SpringBoot",
+    "TiendaSB_Develop/prueba de imagen.md",
+    "Sin nombre",
+    "TiendaSB_Develop/Frontend-Angular/Guards",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250304111057.png",
+    "Pasted image 20250310092650.png",
+    "TO DO LIST.md",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250304110924.png",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250304110835.png",
+    "TiendaSB_Develop/Cookies",
+    "PostMan/Postman_Collections Configuration_CRUD-V2.md",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250226135206.png",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250226135059.png",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250226135000.png",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250226134716.png",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250226134521.png",
+    "TiendaSB_Develop/images_pasted/Pasted image 20250226134341.png",
+    "TiendaSB_Develop/Frontend-Angular/Tokens (cookie service)",
+    "TiendaSB_Develop/images_pasted",
+    "Sin título.md",
+    "PostMan",
+    "TiendaSB_Develop",
+    "Web Develope Notes/Tipoh.md",
+    "Web Develope Notes/TypeScript/Tipado en TypeScript.md"
+  ]
+}
