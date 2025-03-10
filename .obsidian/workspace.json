@@ -27,7 +27,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "TiendaSB_Develop/images_pasted/Explicación-enviroments.png"
+                "file": "images_pasted/Explicación-enviroments.png"
               },
               "icon": "lucide-image",
               "title": "Explicación-enviroments"
@@ -180,9 +180,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "474c85e204fe2252",
+  "active": "3103356be72f73bd",
   "lastOpenFiles": [
-    "TiendaSB_Develop/images_pasted/Explicación-enviroments.png",
+    "images_pasted/Explicación-enviroments.png",
     "PostMan/Postman_Enviroments Configuration_V1.md",
     "PostMan/Postman_Collections Configuration_CRUD-V2.md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
@@ -201,20 +201,20 @@
     "TiendaSB_Develop/prueba de imagen.md",
     "Sin nombre",
     "TiendaSB_Develop/Frontend-Angular/Guards",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250304111057.png",
+    "images_pasted/Pasted image 20250304111057.png",
     "Pasted image 20250310092650.png",
     "TO DO LIST.md",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250304110924.png",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250304110835.png",
+    "images_pasted/Pasted image 20250304110924.png",
+    "images_pasted/Pasted image 20250304110835.png",
     "TiendaSB_Develop/Cookies",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250226135206.png",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250226135059.png",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250226135000.png",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250226134716.png",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250226134521.png",
-    "TiendaSB_Develop/images_pasted/Pasted image 20250226134341.png",
+    "images_pasted/Pasted image 20250226135206.png",
+    "images_pasted/Pasted image 20250226135059.png",
+    "images_pasted/Pasted image 20250226135000.png",
+    "images_pasted/Pasted image 20250226134716.png",
+    "images_pasted/Pasted image 20250226134521.png",
+    "images_pasted/Pasted image 20250226134341.png",
     "TiendaSB_Develop/Frontend-Angular/Tokens (cookie service)",
-    "TiendaSB_Develop/images_pasted",
+    "images_pasted",
     "Sin título.md",
     "PostMan",
     "TiendaSB_Develop",
