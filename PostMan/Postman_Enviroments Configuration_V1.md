@@ -6,4 +6,4 @@ Siempre que iniciemos un nuevo proyecto, deberemos dirigirnos al apartado **Envi
 Una vez que hayamos creado nuestra espacio de trabajo, crearemos una variable por defecto que se nombrara como **URL** . Esta variable tendrá como valor http://localhost:8080/ (este es el puerto por defecto de SpringBoot). Su función es evitar que cada vez que queramos comprobar información por Postman no tengamos que escribir toda la url.
 Si además tenemos una path Base, como por ejemplo en **TiendaSB**, deberemos agregarla a su valor, en este caso será api -> http://localhost:8080/api .
 
-![[Pasted image 20250226122902.png]]
+![EnviromentsV1.2](images_pasted/Explicación-enviroments.png)
