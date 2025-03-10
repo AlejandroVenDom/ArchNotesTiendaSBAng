@@ -1,7 +1,7 @@
 El servicio **`TokenService`** gestiona **la persistencia de los tokens** en las cookies, pero no directamente su **vida útil**. El servicio se encarga de almacenar, recuperar y eliminar los tokens de acceso y refresco en las cookies, pero no controla cuándo deben expirar o renovarse.
 En este servicio se estará creando cookies para almacenar los tokens de acceso y refresco
 
-## Código detallado del servicio
+## **Código detallado del servicio**
 
 ```typescript
 import { Injectable } from '@angular/core';
@@ -67,9 +67,9 @@ export class TokenService {
 }
 ```
 
-## **Explicación por partes del servicio TokenService
+## **Explicación por partes del servicio TokenService**
 
-### **1º Declaración de las claves para las cookies
+### **1º Declaración de las claves para las cookies**
 
 ```typescript
 private readonly ACCESS_TOKEN_KEY: string = 'tienda_token';
@@ -114,7 +114,7 @@ saveTokens(token: string, refreshToken: string) {
 this.cookieService.set(this.nombreCookie,valor_cookie,{opcionesConfiguracion})
 ```
 
-## **3º Método `getAccessToken` 
+## **3º Método `getAccessToken` **
 
 ```typescript
 getAccessToken() {
@@ -128,7 +128,7 @@ getAccessRefreshToken() {
 
 **`this.cookieService.get`**: Este método devuelve el valor de la cookie correspondiente. En este caso, devuelve el token de acceso y el token de refresco.
 
-## **4º Método `removeToken`
+## **4º Método `removeToken`**
 
 ```typescript
 removeToken() {
@@ -143,7 +143,7 @@ removeToken() {
 - **`secure: environment.tokenSecure`**: Similar a la creación de las cookies, garantiza que solo se eliminen en una conexión segura.
 - **`sameSite: 'Strict'`**: Se asegura de que las cookies solo se eliminen de las solicitudes que provienen del mismo dominio.
 
-## **Resumen de la configuración de las cookies
+## **Resumen de la configuración de las cookies**
 
 - **Almacenamiento y recuperación de tokens:** Los métodos del servicio gestionan el almacenamiento de tokens en cookies y la recuperación de los mismos cuando es necesario.
 - **Seguridad en las cookies:** Se configura el uso de cookies seguras (`secure: true`), restringe el acceso desde otros sitios (`sameSite: "Strict"`), y se asegura de que las cookies estén disponibles en todo el dominio (`path: '/'`).
