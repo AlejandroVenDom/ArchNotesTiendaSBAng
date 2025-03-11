@@ -1,3 +1,5 @@
+# **UseStateService & LoginComponent(Save session)**
+
 El servicio `UseStateService` en `LoginComponent` se encarga de **almacenar el estado del usuario en `sessionStorage`** cuando inicia sesión.
 
 ## **¿Qué realiza el UseStateService?**
@@ -12,6 +14,9 @@ El servicio `UseStateService` en `LoginComponent` se encarga de **almacenar el e
 ```typescript
 this.credentialsService.login(this.loginForm.value as LoginInterface).subscribe({
   next: (data) => {
+	  // cuadro de carga al iniciar sesión (* No relevante )
+	this.popupService.loader("Cargando...", "Espere un momento");
+
     this.tokenService.saveTokens(data.token, "234325423423")  
     this.useStateService.save(data.username, data.role)
     this.router.navigate(['/app/control-panel']);
