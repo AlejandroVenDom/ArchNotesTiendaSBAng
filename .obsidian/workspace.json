@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf7335446a61f0c",
+        "id": "9199a8d13bd8071f",
         "type": "tabs",
         "children": [
           {
-            "id": "0d52639187a95c18",
+            "id": "ea8e1a64e730024f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TiendaSB_Develop/Backend-SpringBoot/SBOnline/UserController.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "UserController"
             }
           }
         ]
@@ -164,8 +168,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0d52639187a95c18",
+  "active": "ea8e1a64e730024f",
   "lastOpenFiles": [
+    "TiendaSB_Develop/Backend-SpringBoot/SB3_.md",
+    "TiendaSB_Develop/Backend-SpringBoot/SBOnline/UserController.md",
+    "TiendaSB_Develop/Backend-SpringBoot/SBOnline",
+    "TiendaSB_Develop/Backend-SpringBoot/SBTeoria",
+    "TiendaSB_Develop/Backend-SpringBoot/SBTeoria/SB2_MVC (Modelo-Vista-Controlador).md",
+    "TiendaSB_Develop/Backend-SpringBoot/SBTeoria/SB1_application.properties.md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Guards.md",
+    "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/code/Auth.guard.ts.md",
     "TiendaSB_Develop/Frontend-Angular/SessionStorage/code/LoginComponent.ts.md",
     "TiendaSB_Develop/Frontend-Angular/SessionStorage/code/use-state.service.ts.md",
@@ -179,7 +191,6 @@
     "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/code",
     "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/Sin título.md",
     "TiendaSB_Develop/Frontend-Angular/Guards/code/Public.guard.ts.md",
-    "TiendaSB_Develop/Frontend-Angular/Guards/Auth.Guard (security-routes-NoAuth).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/code",
     "TiendaSB_Develop/Frontend-Angular/Tokens & Cookies/NGX Cookie Service (configuration).md",
     "TiendaSB_Develop/Frontend-Angular/Guards/app.routes.ts (Auth.Guard & public.guard).md",
@@ -187,30 +198,22 @@
     "images_pasted/Explicación-enviroments.png",
     "PostMan/Postman_Collections Configuration_CRUD-V2.md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Auth.guard & Public.guard.md",
-    "TiendaSB_Develop/Backend-SpringBoot/UserController.md",
     "TiendaSB_Develop/Frontend-Angular/Guards/Public.Guard (Security-routes-Auth).md",
     "pasar de testing a porduccion.md",
     "Curso Git/Git-Comandos de Git-V3.md",
     "Curso Git/Git-Instalación y Configuración de Git. Comandos Básicos GitBush-V2.md",
-    "Curso Git/Git-Conceptos Básicos y características-V1.md",
     "TiendaSB_Develop/Frontend-Angular/Enviroments",
     "TiendaSB_Develop/Frontend-Angular",
     "TiendaSB_Develop/Backend-SpringBoot",
-    "TiendaSB_Develop/prueba de imagen.md",
     "Sin nombre",
-    "TiendaSB_Develop/Frontend-Angular/Guards",
     "images_pasted/Pasted image 20250304111057.png",
     "Pasted image 20250310092650.png",
-    "TO DO LIST.md",
     "images_pasted/Pasted image 20250304110924.png",
     "images_pasted/Pasted image 20250304110835.png",
-    "TiendaSB_Develop/Cookies",
     "images_pasted/Pasted image 20250226135206.png",
     "images_pasted/Pasted image 20250226135059.png",
     "images_pasted/Pasted image 20250226135000.png",
     "images_pasted/Pasted image 20250226134716.png",
-    "images_pasted/Pasted image 20250226134521.png",
-    "Sin título.md",
-    "Web Develope Notes/Tipoh.md"
+    "images_pasted/Pasted image 20250226134521.png"
   ]
 }
